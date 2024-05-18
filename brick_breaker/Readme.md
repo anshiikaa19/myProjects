@@ -4,7 +4,7 @@
 
 **Overview**
 
-Brick Breaker is a classic arcade-style game developed for an **FPGA platform**. This project involved designing and implementing the game using** C programming** and **hardware-specific memory access** techniques. The game features **dynamic graphics**, interactive gameplay, and a responsive **user interface**, providing an immersive experience on custom hardware.
+Brick Breaker is a classic arcade-style game developed for an **FPGA platform**. This project involved designing and implementing the game using **C programming** and **hardware-specific memory access** techniques. The game features **dynamic graphics**, interactive gameplay, and a responsive **user interface**, providing an immersive experience on custom hardware.
 
 **Code Implementation**
 
