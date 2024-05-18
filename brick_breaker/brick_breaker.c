@@ -99,7 +99,7 @@ void start_game() {
     }
 
     // Fourth part: " - By Amitesh Raj"
-    char author_text[] = " - By Amitesh Raj";
+    char author_text[] = " - By Anshika Srivastava";
     int author_text_length = strlen(author_text);
     int author_text_start = (80 - author_text_length) / 2;
     for (int x = 0; x < author_text_length; x++) {
